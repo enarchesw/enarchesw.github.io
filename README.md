@@ -1,1 +1,1 @@
-![Enarche Software](/images/logo.png)
+![Enarche Software](/images/logo-text.png)
