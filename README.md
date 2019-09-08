@@ -1,2 +1,2 @@
 # Enarche Software
-<title>Enarche</title>
+<title> The Enarche</title>
